@@ -1,10 +1,6 @@
-scikit-learn
-time
-streamlit
-numpy
-matplotlib
-radonm
 collections
+matplotlib
 pysurvival
-lifelines
 seaborn
+lifelines
+scikit-learn
