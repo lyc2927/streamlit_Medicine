@@ -46,7 +46,7 @@ def modelA(person1):
     import numpy as np
     import pandas as pd
     import collections
-    from matplotlib import pyplot as plt
+    #from matplotlib import pyplot as plt
     #from sklearn.model_selection import train_test_split
     from pysurvival.models.simulations import SimulationModel
     from pysurvival.models.multi_task import NeuralMultiTaskModel
