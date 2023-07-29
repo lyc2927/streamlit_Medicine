@@ -1,5 +1,6 @@
 matplotlib==3.5.3
+scikit-learn==0.23.2
 pysurvival==0.2.1
 seaborn==0.9.0
 lifelines==0.27.7
-scikit-learn==0.23.2
+
