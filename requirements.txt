@@ -6,6 +6,5 @@ matplotlib
 radonm
 collections
 pysurvival
-sklearn
 lifelines
 seaborn
