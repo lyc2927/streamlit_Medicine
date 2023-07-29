@@ -1,6 +1,11 @@
 scikit-learn
+time
+streamlit
 numpy
 matplotlib
-pandas
-xgboost
-imbalanced-learn
+radonm
+collections
+pysurvival
+sklearn
+lifelines
+seaborn
