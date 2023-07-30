@@ -18,7 +18,7 @@ import collections
 import os
 #import matplotlib as mpl
 #import seaborn as sns
-import lifelines
+#import lifelines
 
 
 
