@@ -17,7 +17,7 @@ import collections
 #from pysurvival.datasets import Dataset
 import os
 #import matplotlib as mpl
-import seaborn as sns
+#import seaborn as sns
 import lifelines
 
 
